@@ -192,3 +192,4 @@ C:\Users\ESOGU\Documents\aspnetcore-dersleri\basics\obj\Debug\net9.0\refint\basi
 C:\Users\ESOGU\Documents\aspnetcore-dersleri\basics\obj\Debug\net9.0\basics.pdb
 C:\Users\ESOGU\Documents\aspnetcore-dersleri\basics\obj\Debug\net9.0\basics.genruntimeconfig.cache
 C:\Users\ESOGU\Documents\aspnetcore-dersleri\basics\obj\Debug\net9.0\ref\basics.dll
+C:\Users\ESOGU\Documents\aspnetcore-dersleri\basics\obj\Debug\net9.0\basics.sourcelink.json
