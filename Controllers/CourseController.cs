@@ -27,8 +27,8 @@ public class CourseController : Controller
 
 
         };
-
-        return View("CourseList", kurslar);
+ return View("CourseList", kurslar);
+       
     }
     
     

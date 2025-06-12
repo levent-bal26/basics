@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ESOGU\\Documents\\aspnetcore-dersleri\\basics\\basics.csproj": {}
+    "C:\\Users\\LEVENT\\Documents\\aspnetcore-dersleri\\basics\\basics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ESOGU\\Documents\\aspnetcore-dersleri\\basics\\basics.csproj": {
+    "C:\\Users\\LEVENT\\Documents\\aspnetcore-dersleri\\basics\\basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ESOGU\\Documents\\aspnetcore-dersleri\\basics\\basics.csproj",
+        "projectUniqueName": "C:\\Users\\LEVENT\\Documents\\aspnetcore-dersleri\\basics\\basics.csproj",
         "projectName": "basics",
-        "projectPath": "C:\\Users\\ESOGU\\Documents\\aspnetcore-dersleri\\basics\\basics.csproj",
-        "packagesPath": "C:\\Users\\ESOGU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ESOGU\\Documents\\aspnetcore-dersleri\\basics\\obj\\",
+        "projectPath": "C:\\Users\\LEVENT\\Documents\\aspnetcore-dersleri\\basics\\basics.csproj",
+        "packagesPath": "C:\\Users\\LEVENT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LEVENT\\Documents\\aspnetcore-dersleri\\basics\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ESOGU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\LEVENT\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -68,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
