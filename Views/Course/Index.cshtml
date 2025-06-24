@@ -4,28 +4,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">dotnet watch
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
     <title>Document</title>
 </head>
 <body>
-
-    <h1>course index page</h1>
-    
-    <p>
-        
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="#">CourseApp</a> 
+                <ul class="=navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Home</a> 
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Kurslar</a>                    
+                    </li>
+                </ul>   
+            </div>
+        </nav>
+    </header>
+    <div class="=container pb-3">
+    <main>
+        <h1>course index page</h1>    
+        <p>        
         id: @Model.Id
-
-    </p>
-    <p>
-        
+        </p>
+        <p>        
         title: @Model.Title
-
-    </p>
-    <p>
-        
+        </p>
+        <p>        
         @Model.Description
-
-    </p>
-    
+        </p>
+    </main>
+    </div> 
 </body>
 </html>
